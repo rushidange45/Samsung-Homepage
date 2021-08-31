@@ -1,0 +1,11 @@
+@media(max-width: 768px){
+	.babyNav1,.babyNav2,.baby1Nav2 {
+		display: none;
+	}
+	.nav2 p{
+		font-size: 12px;
+	}
+
+
+}
+
